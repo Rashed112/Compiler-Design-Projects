@@ -1,0 +1,176 @@
+
+Header file found :
+import mathematical.h
+
+Header file found :
+import exchangeInfo.h
+#///////////////// Main function starts \\\\\\\\\\\\\\\\\
+#/////////////// Variables Declarations \\\\\\\\\\\\\\\\\\\
+DECLARATION
+DECLARATION
+#//////////////// Value assignments \\\\\\\\\\\\\\\\\\
+
+Number :  6
+Value of the variable: 6	
+
+Number :  2
+Value of the variable: 2	
+
+Number :  3
+Value of the variable: 3	
+#//////////////////// Calculations \\\\\\\\\\\\\\\\\\
+
+Adding Two Numbers : 6+2 = 8 
+Value of the variable: 8	
+Printing the result : 8
+
+
+Subtracting Two Numbers : 6-2=4 
+ Value of the variable: 4	
+Printing the result : 4
+
+
+Multiplication of Two Numbers : 6*2 
+ Value of the variable: 12	
+Printing the result : 12
+
+
+Division :6/2 
+ Value of the variable: 3	
+Printing the result : 3
+
+
+Mod :6 %d 
+Value of the variable: 0	
+Printing the result : 0
+
+
+Number :  3
+
+Number :  2
+
+Power  :3 ^ 2 
+Value of the variable: 9	
+Printing the result : 9
+
+#///////////////// Conditionals \\\\\\\\\\\\\\\\\\
+# IFELSE functionality
+
+Greater-Than functionality :6 > 2 
+ 
+Adding Two Numbers : 6+2 = 8 
+
+Subtracting Two Numbers : 6-2=4 
+ value of expression in IF: 8
+# SWITCH functionality
+
+Adding Two Numbers : 6+2 = 8 
+
+Adding Two Numbers : 2+9 = 11 
+
+Adding Two Numbers : 6+9 = 15 
+
+Adding Two Numbers : 9+0 = 9 
+
+Number :  5
+
+Number :  2
+
+Greater-Than functionality :5 > 2 
+ value of expression: 1
+
+Number :  2
+
+Number :  5
+
+Less-Than functionality :2 < 5 
+value of expression: 1
+
+Number :  5
+
+Number :  5
+
+Equal functionality: 5 == 5
+value of expression: 5
+#///////////////// Loops \\\\\\\\\\\\\\\\\\
+
+Adding Two Numbers : 6+2 = 8 
+Value of the variable: 8	
+
+***FOR Loop starts...
+1th Loop's expression value: 8
+2th Loop's expression value: 8
+3th Loop's expression value: 8
+4th Loop's expression value: 8
+Printing the result : 8
+
+
+Subtracting Two Numbers : 8-2=6 
+ Value of the variable: 6	
+
+***WHILE Loop starts...
+1th Loop's expression value: 6
+2th Loop's expression value: 6
+3th Loop's expression value: 6
+4th Loop's expression value: 6
+
+.........................................
+Printing the result : 6
+
+#/////////////// ARRAY with intialization \\\\\\\\\\\\\\\
+ARRAY Declaration
+ArraySize : 7
+ARRAY's index = 0, intializing value = 0
+ARRAY's index = 1, intializing value = 0
+ARRAY's index = 2, intializing value = 0
+ARRAY's index = 3, intializing value = 0
+ARRAY's index = 4, intializing value = 0
+ARRAY's index = 5, intializing value = 0
+ARRAY's index = 6, intializing value = 0
+#////////////// FUNCTIONS \\\\\\\\\\\\\\\\\
+***Odd Even Number checking... 
+8 is an Even Number
+
+***Odd Even Number checking... 
+7 is an Odd Number
+
+
+Number :  0
+
+***Trigonometric Function...
+
+Value of Sin(0) is : 0.000000
+value of expression: 0
+
+Number :  0
+
+***Trigonometric Function...
+
+Value of Cos(0) is : 1.000000
+value of expression: 1
+
+Number :  0
+
+***Trigonometric Function...
+
+Value of Tan(0) is : 0.000000
+
+value of expression: 0
+
+***Prime Number checking....
+1 is neither prime nor composite.
+
+***Prime Number checking....
+6 is not a prime number.
+
+***Prime Number checking....
+7 is a prime number.
+
+***Fibonacci Series upto 11 terms...
+Fibonacci Series: 0  1  1  2  3  5  8  13  21  34  55  89  144  
+
+
+***Finding the FACTORS of number 40...
+Factors of 40 are: 1  2  4  5  8  10  20  40  
+
+Main Function Ends
