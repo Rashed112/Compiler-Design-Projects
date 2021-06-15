@@ -27,7 +27,7 @@ header  "import ".*
         yylval = *yytext - 'a';
         return VAR;
         }
-[-+/*<>=,():;%^]    {
+[-+/*<>=,():;%^!]    {
                     yylval = yytext[0];	
                     return  *yytext;	
                     }

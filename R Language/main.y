@@ -199,10 +199,14 @@ expression: NUM				{ printf("\nNumber :  %d\n",$1 ); $$ = $1;  }
 	
 	| expression '>' expression	{printf("\nGreater-Than functionality :%d > %d \n ",$1,$3,$1 > $3); $$ = $1 > $3; }
         | expression '=''=' expression  {
-                                        if($1> $4){}
-                                        else if ($1<$4) {}
-                                        else{
-                                                printf("\nEqual functionality: %d == %d\n",$1,$4);}                                        
+                                        
+                                        printf("\nEqual functionality: %d == %d\n",$1,$4);
+                                        $$ = $1 == $4;                                        
+                                }
+        | expression '!''=' expression  {
+                                        
+                                        printf("\nInequal functionality: %d == %d\n",$1,$4);
+                                        $$ = $1 != $4;                                        
                                 }
 
 	| '(' expression ')'		{$$ = $2; }

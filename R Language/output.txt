@@ -98,7 +98,14 @@ Number :  5
 Number :  5
 
 Equal functionality: 5 == 5
-value of expression: 5
+value of expression: 1
+
+Number :  2
+
+Number :  5
+
+Inequal functionality: 2 == 5
+value of expression: 1
 #///////////////// Loops \\\\\\\\\\\\\\\\\\
 
 Adding Two Numbers : 6+2 = 8 
