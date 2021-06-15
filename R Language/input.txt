@@ -28,6 +28,9 @@ root:
     c= 3^2;
     print(c);
 
+    5++;
+    5--;
+
     #///////////////// Conditionals \\\\\\\\\\\\\\\\\\
     
     # IFELSE functionality
@@ -58,6 +61,7 @@ root:
     5>2;
     2<5;
     5==5;
+    
 
     #///////////////// Loops \\\\\\\\\\\\\\\\\\
     FOR (1<5)
@@ -89,7 +93,6 @@ root:
     FIBSERIES(11);
 
     FACTORS(40);
-
 
 
 }

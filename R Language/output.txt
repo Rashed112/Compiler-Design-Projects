@@ -53,6 +53,13 @@ Power  :3 ^ 2
 Value of the variable: 9	
 Printing the result : 9
 
+
+value before Increment : 5
+value after Increment : 6
+
+value before Decrement : 5
+value after Decrement : 4
+
 #///////////////// Conditionals \\\\\\\\\\\\\\\\\\
 # IFELSE functionality
 

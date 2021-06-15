@@ -39,6 +39,16 @@ statement: ';'
 					printf("Value of the variable: %d\t\n",$3);
 					$$=$3;
                                         }
+        | NUM '+''+'';'         {
+                                printf("\nvalue before Increment : %d",$1 );
+                                printf("\nvalue after Increment : %d\n",$1+1 );
+                                $$=$1+1;
+                        }
+        | NUM '-''-'';'         {
+                                printf("\nvalue before Decrement : %d",$1 );
+                                printf("\nvalue after Decrement : %d\n\n",$1-1 );
+                                $$=$1-1;
+                        }
         | FOR '(' NUM '<' NUM ')' LB statement RB       {
                                                         int i;
                                                         printf("\n***FOR Loop starts...\n");
