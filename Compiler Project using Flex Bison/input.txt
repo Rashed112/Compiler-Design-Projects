@@ -78,7 +78,7 @@ root:
     print(a);
 
     #/////////////// ARRAY with intialization \\\\\\\\\\\\\\\
-    ARRAY int N (7) = 0;
+    ARRAY int N (7) = 1;
 
     #////////////// FUNCTIONS \\\\\\\\\\\\\\\\\
     OE(8);
@@ -93,7 +93,7 @@ root:
 
     FIBSERIES(11);
 
-    FACTORS(40);
+    FACTORS(20);
 
 
 }

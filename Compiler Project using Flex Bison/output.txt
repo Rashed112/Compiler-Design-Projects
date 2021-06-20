@@ -134,13 +134,13 @@ Printing the result : 6
 #/////////////// ARRAY with intialization \\\\\\\\\\\\\\\
 ARRAY Declaration
 ArraySize : 7
-ARRAY's index = 0, intializing value = 0
-ARRAY's index = 1, intializing value = 0
-ARRAY's index = 2, intializing value = 0
-ARRAY's index = 3, intializing value = 0
-ARRAY's index = 4, intializing value = 0
-ARRAY's index = 5, intializing value = 0
-ARRAY's index = 6, intializing value = 0
+ARRAY's index = 0, intializing value = 1
+ARRAY's index = 1, intializing value = 1
+ARRAY's index = 2, intializing value = 1
+ARRAY's index = 3, intializing value = 1
+ARRAY's index = 4, intializing value = 1
+ARRAY's index = 5, intializing value = 1
+ARRAY's index = 6, intializing value = 1
 #////////////// FUNCTIONS \\\\\\\\\\\\\\\\\
 ***Odd Even Number checking... 
 8 is an Even Number
@@ -184,7 +184,7 @@ value of expression: 0
 Fibonacci Series: 0  1  1  2  3  5  8  13  21  34  55  89  144  
 
 
-***Finding the FACTORS of number 40...
-Factors of 40 are: 1  2  4  5  8  10  20  40  
+***Finding the FACTORS of number 20...
+Factors of 20 are: 1  2  4  5  10  20  
 
 Main Function Ends
